@@ -1,0 +1,76 @@
+.playfair-display-sc-bold {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: xx-large;
+}
+
+.patua-one-regular {
+  font-family: "Patua One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: xx-large;
+}
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: large;
+}
+
+.maname-regular {
+  font-family: "Maname", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.imagem {
+  margin-left: 70%;
+  margin-top: -17%;
+  position: absolute;
+}
+
+.imagem1 {
+  margin-right: 10%;
+  margin-top: -14%;
+  position: absolute;
+}
+
+.imagem2 {
+  position: absolute;
+  margin-left: 75%;
+  margin-top: -9%;
+}
+
+.imagem3 {
+  position: absolute;
+  margin-right: 10%;
+  margin-top: -13%;
+
+}
+
+.imagem4 {
+  position: absolute;
+  margin-left: 22%;
+  margin-top: -10%;
+}
+
+.imagem5 {
+  position: absolute;
+  margin-left: 58%;
+  margin-top: -10%;
+}
+
+#esquerda {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.imagem6 {
+  position: absolute;
+  margin-left: 11%;
+  margin-top: -16%;
+}
